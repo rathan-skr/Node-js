@@ -1193,13 +1193,13 @@
     "images" : [
         {
             "mimeType" : "image/png",
-            "name" : "textiles_1_20090323_1963410504.png",
-            "uri" : "../models/tex/textiles_1_20090323_1963410504.png"
+            "name" : "textiles_1_20090323_1963410504",
+            "uri" : "chair/textiles_1_20090323_1963410504.png"
         },
         {
             "mimeType" : "image/jpeg",
-            "name" : "2209.jpg",
-            "uri" : "../models/tex/2209.jpg"
+            "name" : "2209",
+            "uri" : "chair/2209.jpg"
         }
     ],
     "accessors" : [
